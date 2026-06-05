@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -510,9 +511,9 @@
             <h3><i class="fas fa-lightbulb"></i> راهنمایی های لازم</h3>
             <div class="steps">
                 <div class="step">
-                    <i class="fas fa-database"></i>
-                    <h4>حجم ثابت</h4>
-                    <p>هر خرید دارای 40 گیگ کانفیگ است و متغیر نیست</p>
+                    <i class="fas fa-infinity"></i>
+                    <h4>حجم نامحدود</h4>
+                    <p>حجم استفاده از این کانفیگ به صورت نامحدود است</p>
                 </div>
                 <div class="step">
                     <i class="fas fa-users-slash"></i>
@@ -533,7 +534,7 @@
             
             <div class="price-message">
                 <div class="price-text">
-                    <i class="fas fa-ticket-alt"></i> مبلغ ثبت سفارش ۶۳ هزارتومان می‌باشد
+                    <i class="fas fa-ticket-alt"></i> مبلغ ثبت سفارش ۷۰ هزارتومان می‌باشد
                 </div>
             </div>
         </div>
